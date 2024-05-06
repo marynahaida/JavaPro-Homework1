@@ -6,6 +6,7 @@ public class Main {
         System.out.println("Converter App");
 
         double kgs = 5;
+        System.out.println("App for measures converting");
         double pounds = convLgsToPounds(kgs);
         System.out.println("Result is " + pounds + " pounds");
     }
